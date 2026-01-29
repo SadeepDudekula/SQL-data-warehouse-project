@@ -1,4 +1,4 @@
-# Data Warehoouse and Analytics Project
+# Data Warehouse and Analytics Project
 
 ## Overview
 This project shows how to build a **SQL Data Warehouse** for analytics.  
