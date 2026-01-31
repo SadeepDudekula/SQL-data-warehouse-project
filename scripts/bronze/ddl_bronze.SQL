@@ -99,7 +99,7 @@ go
 create table bronze.erp_px_cat_g1v2(
 	id          nvarchar(50),
 	cat         nvarchar(50),
-	subcar      nvarchar(50),
+	subcat      nvarchar(50),
 	maintenance nvarchar(50)
 );
 
