@@ -50,11 +50,11 @@ The data architecture for this project follows medallion archutecture bronze,sil
 
 ![Data Architecture](images/data_architecture.png.png)
 
-###1.Bronze : stores raw data from the source system Data is ingested from CSVfiles into SQL
+### 1.Bronze : stores raw data from the source system Data is ingested from CSVfiles into SQL
 servers.
-###2.Silver : this layer includes data cleaning,standardization and normalization processes to prepare data for
+### 2.Silver : this layer includes data cleaning,standardization and normalization processes to prepare data for
 analysis.
-###3.Gold : Houses bussinesss ready data modeled into a star schema required for reporting and analytics.
+### 3.Gold : Houses bussinesss ready data modeled into a star schema required for reporting and analytics.
 
 ## 👋 About Me
 
