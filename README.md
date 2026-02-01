@@ -45,12 +45,8 @@ This project involves:
 
 ---
 
-## 📂 Repository Structure
+## 🏗️ Data Architecture
 
-data-warehouse-project/ │ ├── datasets/ │   └── Raw datasets used for the project (ERP and CRM data) │ ├── docs/ │   ├── etl.drawio │   │   └── ETL techniques and methods │   ├── data_architecture.drawio │   │   └── Overall data warehouse architecture │   ├── data_flow.drawio │   │   └── Data flow diagrams │   ├── data_models.drawio │   │   └── Star schema and dimensional models │   ├── data_catalog.md │   │   └── Dataset catalog with field descriptions and metadata │   └── naming_conventions.md │       └── Naming standards for tables, columns, and files │ ├── scripts/ │   ├── bronze/ │   │   └── Scripts for extracting and loading raw data │   ├── silver/ │   │   └── Scripts for data cleansing and transformation │   └── gold/ │       └── Scripts for building analytical models │ ├── tests/ │   └── Data quality checks and validation scripts │ ├── README.md │   └── Project overview and documentation │ ├── LICENSE │   └── Project license │ ├── .gitignore │   └── Files and directories ignored by Git │ └── requirements.txt └── Project dependencies
+![Data Architecture](images/data_architecture.png.png)
 
 
-
----
-
-## 📂 Repository Structure
