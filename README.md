@@ -46,7 +46,18 @@ This project involves:
 ---
 
 ## 🏗️ Data Architecture
+The data architecture for this project follows medallion archutecture bronze,silver and gold layers. 
 
 ![Data Architecture](images/data_architecture.png.png)
+
+1.Bronze : stores raw data from the source system Data is ingested from CSVfiles into SQL servers.
+2.Silver : this layer includes data cleaning,standardization and normalization processes to prepare data for
+analysis.
+3.Gold : Houses bussinesss ready data modeled into a star schema required for reporting and analytics.
+
+## 👋 About Me
+
+Hi, I’m Dudekula Sadeep, a final-year B.Tech student with a strong interest in data analytics.  
+I am currently building hands-on SQL projects focused on data warehousing, exploratory data analysis (EDA), and advanced queries.
 
 
